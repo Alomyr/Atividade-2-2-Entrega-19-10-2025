@@ -25,3 +25,9 @@ Critérios de Avaliação (2 pts)
 0,25 pt → Implementou adicionar e remover corretamente usando coleções.
 0,25 pt → Implementou buscar(String chave) de forma funcional.
 0,25 pt → Testou com String e com Aluno no programa principal.
+
+/*
+ * TODO: ransformar essa classe em uma classe genérica Repositorio<T>,
+ * TODO: void adicionar(T obj) void remover(T obj) T buscar(String chave)
+ * FIXME: Arrumar o README
+*/
