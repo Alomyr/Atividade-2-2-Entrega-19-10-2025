@@ -1,3 +1,4 @@
+package src.main.java.com.atividadeDePratica.lp2;
 public class Main {
     public static void main(String[] args) {
         // Repositório sem Generics - aluno deve arrumar

@@ -1,3 +1,5 @@
+package src.main.java.com.atividadeDePratica.lp2;
+
 public class Aluno {
     private String matricula;
     private String nome;
