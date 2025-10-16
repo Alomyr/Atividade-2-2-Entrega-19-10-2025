@@ -32,6 +32,3 @@ public class Repositorio<T> {
         }
     }
 }
-/*
- * FIXME: Corrigir o README e fazer comentarios de doxygen;
- */
